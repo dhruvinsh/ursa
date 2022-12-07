@@ -1,0 +1,9 @@
+[submodule "libs/keyswitches.pretty"]
+	path = libs/keyswitches.pretty
+	url = https://github.com/daprice/keyswitches.pretty.git
+[submodule "Keebio-Parts.pretty"]
+	path = libs/Keebio-Parts.pretty
+	url = https://github.com/keebio/Keebio-Parts.pretty.git
+[submodule "libs/kicad-library-WeAct-RP2040-Pico"]
+	path = libs/kicad-library-WeAct-RP2040-Pico
+	url = https://github.com/Kriechi/kicad-library-WeAct-RP2040-Pico.git

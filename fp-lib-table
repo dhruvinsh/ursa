@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "Keebio")(type "KiCad")(uri "${KIPRJMOD}/libs/Keebio-Parts.pretty")(options "")(descr ""))
+  (lib (name "keyswitches")(type "KiCad")(uri "${KIPRJMOD}/libs/keyswitches.pretty")(options "")(descr ""))
+  (lib (name "WeAct-RP2040-Pico")(type "KiCad")(uri "${KIPRJMOD}/libs/kicad-library-WeAct-RP2040-Pico/footprints/WeAct-RP2040-Pico.pretty")(options "")(descr ""))
+)
