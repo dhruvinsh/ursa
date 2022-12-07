@@ -7,3 +7,6 @@
 [submodule "libs/kicad-library-WeAct-RP2040-Pico"]
 	path = libs/kicad-library-WeAct-RP2040-Pico
 	url = https://github.com/Kriechi/kicad-library-WeAct-RP2040-Pico.git
+[submodule "libs/keyswitch-kicad-library"]
+	path = libs/keyswitch-kicad-library
+	url = https://github.com/perigoso/keyswitch-kicad-library.git
