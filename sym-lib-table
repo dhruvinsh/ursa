@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name "WeAct-RP2040-Pico")(type "KiCad")(uri "${KIPRJMOD}/libs/kicad-library-WeAct-RP2040-Pico/symbols/WeAct-RP2040-Pico.kicad_sym")(options "")(descr ""))
+  (lib (name "TRRS")(type "KiCad")(uri "${KIPRJMOD}/libs/misc/symbols/trrs.kicad_sym")(options "")(descr ""))
 )
